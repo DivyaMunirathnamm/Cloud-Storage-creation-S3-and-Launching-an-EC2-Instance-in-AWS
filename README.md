@@ -1,10 +1,10 @@
-CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
-NAME: DIVYA M
-REG NO: 212223040043
-Aim:
+# CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
+# NAME: DIVYA M
+# REG NO: 212223040043
+# Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
-Procedure
+# Procedure
 a) Steps to Create a first S3 Bucket:
 
 Step 1: Sign in to the AWS Management Console Go to https://console.aws.amazon.com/s3.
@@ -57,15 +57,12 @@ d) Steps to Clean Up (Terminate the Instance)
 
 Go to EC2 Instances. Select your instance → Instance State → Terminate.
 
-Output:
+# Output:
 Simple Storage Service: image
- <img width="928" height="491" alt="image" src="https://github.com/user-attachments/assets/3c7c12da-1528-46b0-a97a-681073bd9545" />
-
+<img width="928" height="491" alt="image" src="https://github.com/user-attachments/assets/6a224d28-14d1-44bc-bda8-8d690fbedf5f" />
 
 EC2(Elastic Cloud Compute) image
+<img width="883" height="504" alt="image" src="https://github.com/user-attachments/assets/62525aa9-64a2-4830-aadc-de171c2aafa7" />
 
-<img width="883" height="504" alt="image" src="https://github.com/user-attachments/assets/009742a4-2289-4a2c-a1f3-e0437e85b640" />
-
-
-Result:
+# Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
